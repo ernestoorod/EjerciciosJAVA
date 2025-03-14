@@ -1,2 +1,2 @@
 # EjerciciosJAVA
-Para acceder al ejercicio primero tienes que entrar en la ruta src/main/java
+Para acceder al ejercicio en cada carpeta tienes que entrar en la ruta src/main/java
